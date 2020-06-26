@@ -1,0 +1,5 @@
+3 kafe po 2 marke, to je ukupno 6 marake
+43 kare po 1,5 km iznosi 64.5
+A
+
+<C-r>=

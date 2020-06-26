@@ -1,0 +1,5 @@
+Ovo je prva linija.
+Ovo je druga linija.
+Nesto pise i na trecoj liniji.
+
+ovdje probamo sa inverznim(tilda)

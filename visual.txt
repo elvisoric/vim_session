@@ -1,0 +1,12 @@
+Imamo neki bug na desktop aplikaciji, neka to pogleda Denis.
+
+
+Visual modes
+
+Vim has three kinds of Visual mode.
+In character-wise Visual mode, we can select anything from a single character up to a range of characters within a line or spanning multiple lines.
+This is suitable for working at the level of individual words or phrases.
+If we want to operate on entire lines, we can use line-wise Visual mode instead.
+Finally, block-wise Visual mode allows us to work with columnar regions of the document.
+
+

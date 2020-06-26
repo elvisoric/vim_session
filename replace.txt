@@ -1,0 +1,2 @@
+Typing u insert modu prosiruje liniju. Ali u replace modu, linija ostaje iste duzine.
+
